@@ -1,0 +1,1 @@
+all basic magento tasks
